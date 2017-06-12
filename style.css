@@ -17,6 +17,11 @@ body {
 	float: right;
 }
 
+/* AA */
+.link-container a:hover {
+	color: pink;
+}
+
 .link {
 	display: inline-block;
 	padding-top: 40px;
