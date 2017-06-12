@@ -1,0 +1,42 @@
+body {
+	background-image: url(https://i.stack.imgur.com/NEuip.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body {
+	padding-top: 200px;
+}
+
+.title-container {
+	display:inline-block;
+}
+
+.link-container {
+	display: inline-block;
+	float: right;
+}
+
+.link {
+	display: inline-block;
+	padding-top: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+p {
+	color: white
+}
+
+
+.home-page {
+	color: #FFFFFF
+}
+
+.jumbotron{
+	background-image: url(http://www.hamiltonisland.com.au/HamiltonIsland/media/Originals/Scenery-(GBR,-Catseye,-Whitehaven)/reef-rings.jpg?width=1024&height=437&mode=crop&center=0.53343350864012,0.4675);
+	background-size: cover;
+	
+}
+
